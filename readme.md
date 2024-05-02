@@ -1,5 +1,7 @@
 <h3 align="center">Fullstack Web Developer  </h3>
 
+<a href="#"><img src="https://media1.tenor.com/m/meZiCF6wF90AAAAC/newjeans-newjeans-bunny.gif" alt="drawing" width="100"/></a>
+
 <br/>
 
 <div align="center">
