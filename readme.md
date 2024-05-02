@@ -3,6 +3,9 @@
 <br/>
 
 <div align="center">
+
+<a href="#"><img src="https://media1.tenor.com/m/meZiCF6wF90AAAAC/newjeans-newjeans-bunny.gif" alt="drawing" width="100"/></a>
+
  
  🌱 I’m currently studying __Full Stack Development__
 
