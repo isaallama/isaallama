@@ -1,4 +1,4 @@
-<h3 align="center">Fullstack Web Developer  </h3>
+<h3 align="center">Fullstack Web Developer Jr. </h3>
 
 <div align="center">
 
