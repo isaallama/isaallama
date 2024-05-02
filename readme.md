@@ -1,17 +1,10 @@
 <h3 align="center">Fullstack Web Developer  </h3>
 
-<a href="#"><img src="https://media1.tenor.com/m/meZiCF6wF90AAAAC/newjeans-newjeans-bunny.gif" alt="drawing" width="100"/></a>
-
-<br/>
-
 <div align="center">
 
+<a href="#"><img src="https://i.giphy.com/fLdGXOAl9aqmB3pJkq.webp" alt="drawing" width="100"/></a>
 
-
- 
- 🌱 I’m currently studying __Full Stack Development__
-
-
+ 📘 I’m currently studying __Full Stack Development__
 
  </div>
  
@@ -26,7 +19,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git" />
@@ -36,7 +29,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=isaallama&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
